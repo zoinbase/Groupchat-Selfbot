@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_ACCOUNT_TOKEN",
+  "groupId": "ID_OF_THE_GROUP_CHAT",
+  "ownerIds": ["YOUR_USER_ID"],
+  "snipeIds": [],
+  "votekickTime": 30000,
+  "votesRequired": 3,
+  "commandCooldownTime": 3000
+}
